@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081308011726065664"
+      ]
+    },
+    "author_id": "2080966704356802560",
+    "conversation_id": "2081308020588564982",
+    "created_at": "2026-07-26T09:17:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T10:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081308020588564982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Fl4xjXJ7qn",
+          "end": 147,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2081308020588564982/photo/1",
+          "media_key": "3_2081308011726065664",
+          "start": 124,
+          "url": "https://t.co/Fl4xjXJ7qn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081308020588564982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "普瑞耐受前提下摄入2100mg八个半小时后二次给药测试\n加量同剂量2100mg普瑞（药效残留混合联用后约等于1200mg）+70mg巴氯芬+7mg褪黑素\n瑞思拜 春风 提前了几天 但我多次体验此联用这是最贴合此组合以及超量测试 最近有点癫痫和抽动 https://t.co/Fl4xjXJ7qn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081308011726065664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOJKnAMbUAAW462.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081308011726065664"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2081308020588564982",
+        "created_at": "2026-07-26T09:17:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T10:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081308020588564982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Fl4xjXJ7qn",
+              "end": 147,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2081308020588564982/photo/1",
+              "media_key": "3_2081308011726065664",
+              "start": 124,
+              "url": "https://t.co/Fl4xjXJ7qn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081308020588564982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "普瑞耐受前提下摄入2100mg八个半小时后二次给药测试\n加量同剂量2100mg普瑞（药效残留混合联用后约等于1200mg）+70mg巴氯芬+7mg褪黑素\n瑞思拜 春风 提前了几天 但我多次体验此联用这是最贴合此组合以及超量测试 最近有点癫痫和抽动 https://t.co/Fl4xjXJ7qn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 4
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      }
+    ]
+  }
+}

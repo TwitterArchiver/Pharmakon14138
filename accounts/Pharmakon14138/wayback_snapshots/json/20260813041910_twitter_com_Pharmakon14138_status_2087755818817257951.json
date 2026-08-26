@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087755810063745024"
+      ]
+    },
+    "author_id": "2080966704356802560",
+    "conversation_id": "2087755818817257951",
+    "created_at": "2026-08-13T04:19:10.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T05:19:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087755818817257951"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 18,
+          "start": 14,
+          "tag": "棉花糖"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xnvHnSldcy",
+          "end": 59,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2087755818817257951/photo/1",
+          "media_key": "3_2087755810063745024",
+          "start": 36,
+          "url": "https://t.co/xnvHnSldcy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087755818817257951",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087755810063745024"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "瓦楞斯大人指出重大指示：\n\n#棉花糖 感谢Robby的测评 非常专业！ https://t.co/xnvHnSldcy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2087755810063745024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPky2QybgAALWaY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087755810063745024"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2087755818817257951",
+        "created_at": "2026-08-13T04:19:10.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:19:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087755818817257951"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 14,
+              "tag": "棉花糖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xnvHnSldcy",
+              "end": 59,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2087755818817257951/photo/1",
+              "media_key": "3_2087755810063745024",
+              "start": 36,
+              "url": "https://t.co/xnvHnSldcy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087755818817257951",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087755810063745024"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "瓦楞斯大人指出重大指示：\n\n#棉花糖 感谢Robby的测评 非常专业！ https://t.co/xnvHnSldcy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2087755818817257951",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 55,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 24
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

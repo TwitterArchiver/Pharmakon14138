@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2082727594139734324",
+    "created_at": "2026-07-30T07:18:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T08:18:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082727594139734324"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stolly21_tg/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/stolly21_tg/status/2081925823448379823",
+          "start": 7,
+          "url": "https://t.co/HSbF6BosEn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082727594139734324",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081925823448379823",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哇塞 好细心 https://t.co/HSbF6BosEn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2393,
+        "media_key": "3_2081925796957208576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8e1hbQAAuhq4.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2169,
+        "media_key": "3_2081925804259463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8fQua0AA9AwF.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1773,
+        "media_key": "3_2081925811238801408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8fqubEAA0Sja.jpg",
+        "width": 1440
+      },
+      {
+        "height": 2081,
+        "media_key": "3_2081925817215721472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOR8gA_boAAAVMB.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2082727594139734324",
+        "created_at": "2026-07-30T07:18:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T08:18:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082727594139734324"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stolly21_tg/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/stolly21_tg/status/2081925823448379823",
+              "start": 7,
+              "url": "https://t.co/HSbF6BosEn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082727594139734324",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081925823448379823",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哇塞 好细心 https://t.co/HSbF6BosEn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081925796957208576",
+            "3_2081925804259463168",
+            "3_2081925811238801408",
+            "3_2081925817215721472"
+          ]
+        },
+        "author_id": "1781745564738281472",
+        "conversation_id": "2081925823448379823",
+        "created_at": "2026-07-28T02:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081925823448379823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925796957208576",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            },
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925804259463168",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            },
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925811238801408",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            },
+            {
+              "display_url": "pic.x.com/MsvQB6OaWD",
+              "end": 46,
+              "expanded_url": "https://x.com/Stolly21_TG/status/2081925823448379823/photo/1",
+              "media_key": "3_2081925817215721472",
+              "start": 23,
+              "url": "https://t.co/MsvQB6OaWD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081925823448379823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1119,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "棉花糖的repo~好开心 很美好的体验啊ww https://t.co/MsvQB6OaWD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 41,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 13
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-20T18:03:50.000Z",
+        "description": "被ghostban发不了评论！我不高冷！\n学习药理的oder、edtwt、162cm35kg、鼻吸130mgDPT存活玩家、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "id": "1781745564738281472",
+        "name": "枢纽Toky",
+        "pinned_tweet_id": "2081013860522148111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 264,
+          "like_count": 1735,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "Stolly21_TG",
+        "verified": false
+      }
+    ]
+  }
+}

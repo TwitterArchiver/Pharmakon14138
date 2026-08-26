@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083908803591069698",
+        "3_2083908803641344000",
+        "3_2083908803612094464"
+      ]
+    },
+    "author_id": "2080966704356802560",
+    "conversation_id": "2083908814877897102",
+    "created_at": "2026-08-02T13:32:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:32:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083908814877897102"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "飘飘糖"
+        },
+        {
+          "end": 8,
+          "start": 5,
+          "tag": "口服"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QafmaNTNNr",
+          "end": 154,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2083908814877897102/photo/1",
+          "media_key": "3_2083908803591069698",
+          "start": 131,
+          "url": "https://t.co/QafmaNTNNr"
+        },
+        {
+          "display_url": "pic.x.com/QafmaNTNNr",
+          "end": 154,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2083908814877897102/photo/1",
+          "media_key": "3_2083908803641344000",
+          "start": 131,
+          "url": "https://t.co/QafmaNTNNr"
+        },
+        {
+          "display_url": "pic.x.com/QafmaNTNNr",
+          "end": 154,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2083908814877897102/photo/1",
+          "media_key": "3_2083908803612094464",
+          "start": 131,
+          "url": "https://t.co/QafmaNTNNr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083908814877897102",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#飘飘糖 #口服 \n瓦楞斯:奇幻的旅程 希望能给予你一种新的力量 不论未来生活再起什么风浪 至少心里已经有了一座能为你心绪挡风遮雨的灯塔\n\n注:飘飘需要引导 也会调用情绪 心情愉悦能获得好的体验 但每种旅程都有意义 想开了 看清了 体验过后能够珍惜当下生活就好 https://t.co/QafmaNTNNr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1864,
+        "media_key": "3_2083908803591069698",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuIBA5a4AIMC7e.jpg",
+        "width": 932
+      },
+      {
+        "height": 1864,
+        "media_key": "3_2083908803641344000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuIBBFaAAAWTq0.jpg",
+        "width": 932
+      },
+      {
+        "height": 1864,
+        "media_key": "3_2083908803612094464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOuIBA-bsAA45cd.jpg",
+        "width": 932
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083908803591069698",
+            "3_2083908803641344000",
+            "3_2083908803612094464"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2083908814877897102",
+        "created_at": "2026-08-02T13:32:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083908814877897102"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "飘飘糖"
+            },
+            {
+              "end": 8,
+              "start": 5,
+              "tag": "口服"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QafmaNTNNr",
+              "end": 154,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2083908814877897102/photo/1",
+              "media_key": "3_2083908803591069698",
+              "start": 131,
+              "url": "https://t.co/QafmaNTNNr"
+            },
+            {
+              "display_url": "pic.x.com/QafmaNTNNr",
+              "end": 154,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2083908814877897102/photo/1",
+              "media_key": "3_2083908803641344000",
+              "start": 131,
+              "url": "https://t.co/QafmaNTNNr"
+            },
+            {
+              "display_url": "pic.x.com/QafmaNTNNr",
+              "end": 154,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2083908814877897102/photo/1",
+              "media_key": "3_2083908803612094464",
+              "start": 131,
+              "url": "https://t.co/QafmaNTNNr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083908814877897102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#飘飘糖 #口服 \n瓦楞斯:奇幻的旅程 希望能给予你一种新的力量 不论未来生活再起什么风浪 至少心里已经有了一座能为你心绪挡风遮雨的灯塔\n\n注:飘飘需要引导 也会调用情绪 心情愉悦能获得好的体验 但每种旅程都有意义 想开了 看清了 体验过后能够珍惜当下生活就好 https://t.co/QafmaNTNNr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 55,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      }
+    ]
+  }
+}

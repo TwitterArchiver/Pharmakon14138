@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2083988546294272405",
+    "created_at": "2026-08-02T20:20:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T21:20:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084011408925278659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1870825698744836096",
+          "start": 0,
+          "username": "ifiwereamoth"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084011408925278659",
+    "in_reply_to_user_id": "1870825698744836096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083988546294272405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ifiwereamoth 这个确实能o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083988541248614400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvQiW0bsAAF-mi.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2083988541311520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOvQiXDbkAAaegd.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2083988546294272405",
+        "created_at": "2026-08-02T20:20:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T21:20:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084011408925278659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1870825698744836096",
+              "start": 0,
+              "username": "ifiwereamoth"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084011408925278659",
+        "in_reply_to_user_id": "1870825698744836096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083988546294272405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ifiwereamoth 这个确实能o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083988541248614400",
+            "3_2083988541311520768"
+          ]
+        },
+        "author_id": "1870825698744836096",
+        "conversation_id": "2083988546294272405",
+        "created_at": "2026-08-02T18:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T19:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083988546294272405"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WjEMBmAq8Q",
+              "end": 55,
+              "expanded_url": "https://x.com/ifiwereamoth/status/2083988546294272405/photo/1",
+              "media_key": "3_2083988541248614400",
+              "start": 32,
+              "url": "https://t.co/WjEMBmAq8Q"
+            },
+            {
+              "display_url": "pic.x.com/WjEMBmAq8Q",
+              "end": 55,
+              "expanded_url": "https://x.com/ifiwereamoth/status/2083988546294272405/photo/1",
+              "media_key": "3_2083988541311520768",
+              "start": 32,
+              "url": "https://t.co/WjEMBmAq8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083988546294272405",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在高鐵站自動拾取了一版藥我以為是什麼野味 仔細一看是暈車藥 唉 https://t.co/WjEMBmAq8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 55,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 17
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-22T13:36:35.000Z",
+        "description": "邊界之物",
+        "id": "1870825698744836096",
+        "location": "🚪88好处只有認識我",
+        "name": "s!xpence",
+        "pinned_tweet_id": "2002568787061846389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002570935380160516/-yco8Owh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2112,
+          "following_count": 138,
+          "like_count": 3912,
+          "listed_count": 7,
+          "media_count": 181,
+          "tweet_count": 873
+        },
+        "url": "",
+        "username": "ifiwereamoth",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082715667363700736"
+      ]
+    },
+    "author_id": "2080966704356802560",
+    "conversation_id": "2082715679778840877",
+    "created_at": "2026-07-30T06:31:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T07:31:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082715679778840877"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 14,
+          "start": 10,
+          "tag": "棉花糖"
+        },
+        {
+          "end": 19,
+          "start": 15,
+          "tag": "飘飘糖"
+        },
+        {
+          "end": 24,
+          "start": 20,
+          "tag": "策划药"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OHlNa9BmDh",
+          "end": 48,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2082715679778840877/photo/1",
+          "media_key": "3_2082715667363700736",
+          "start": 25,
+          "url": "https://t.co/OHlNa9BmDh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082715679778840877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“我错了，起效了”\n#棉花糖 #飘飘糖 #策划药 https://t.co/OHlNa9BmDh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1445,
+        "media_key": "3_2082715667363700736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOdK3WFaoAAShhR.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082715667363700736"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2082715679778840877",
+        "created_at": "2026-07-30T06:31:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T07:31:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082715679778840877"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 10,
+              "tag": "棉花糖"
+            },
+            {
+              "end": 19,
+              "start": 15,
+              "tag": "飘飘糖"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "策划药"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHlNa9BmDh",
+              "end": 48,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2082715679778840877/photo/1",
+              "media_key": "3_2082715667363700736",
+              "start": 25,
+              "url": "https://t.co/OHlNa9BmDh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082715679778840877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“我错了，起效了”\n#棉花糖 #飘飘糖 #策划药 https://t.co/OHlNa9BmDh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 40,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 12
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      }
+    ]
+  }
+}

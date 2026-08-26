@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2081350126015308287",
+    "created_at": "2026-07-26T12:23:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T13:23:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081354675497181270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081354675497181270",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081350126015308287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii 龟息"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7746,
+        "height": 1280,
+        "media_key": "13_2081350102938218496",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2081350102938218496/img/IwXfezwE-Oi_Wgop.jpg",
+        "public_metrics": {
+          "view_count": 6
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081350102938218496/vid/avc1/320x568/2DRdEO3ODAwYrRBm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081350102938218496/vid/avc1/480x852/SySNnamJ-yduYnEd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2081350102938218496/vid/avc1/720x1280/BUtbWV9vk4e2ChfK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2081350102938218496/pl/Ve6niJ9iBB1E2ily.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2081350126015308287",
+        "created_at": "2026-07-26T12:23:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:23:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081354675497181270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081354675497181270",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081350126015308287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii 龟息"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2081350102938218496"
+          ]
+        },
+        "author_id": "1993150970705199108",
+        "conversation_id": "2081350126015308287",
+        "created_at": "2026-07-26T12:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T13:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081350126015308287"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LcfoWrGwX3",
+              "end": 34,
+              "expanded_url": "https://x.com/Nana_naiiiiiii/status/2081350126015308287/video/1",
+              "media_key": "13_2081350102938218496",
+              "start": 11,
+              "url": "https://t.co/LcfoWrGwX3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081350126015308287",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "真想回去当美式女孩呀 https://t.co/LcfoWrGwX3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 17,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 7
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "对不起\n我爱你",
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1655,
+          "following_count": 324,
+          "like_count": 23765,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 1807
+        },
+        "url": "",
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      }
+    ]
+  }
+}
