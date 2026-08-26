@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081017229458706433"
+      ]
+    },
+    "author_id": "2080966704356802560",
+    "conversation_id": "2081017236912017646",
+    "created_at": "2026-07-25T14:02:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T15:02:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081017236912017646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sTmXyjr2di",
+          "end": 28,
+          "expanded_url": "https://x.com/Pharmakon14138/status/2081017236912017646/photo/1",
+          "media_key": "3_2081017229458706433",
+          "start": 5,
+          "url": "https://t.co/sTmXyjr2di"
+        },
+        {
+          "display_url": "x.com/99905230523aol…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/99905230523aol/status/2080519568192352607",
+          "start": 29,
+          "url": "https://t.co/zxeLJBHurJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081017236912017646",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080519568192352607",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本人成分 https://t.co/sTmXyjr2di https://t.co/zxeLJBHurJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2081017229458706433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOFCJP1akAEDlaH.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1056,
+        "media_key": "3_2080519565289947136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN99hYVbgAA5vJF.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081017229458706433"
+          ]
+        },
+        "author_id": "2080966704356802560",
+        "conversation_id": "2081017236912017646",
+        "created_at": "2026-07-25T14:02:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T15:02:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081017236912017646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sTmXyjr2di",
+              "end": 28,
+              "expanded_url": "https://x.com/Pharmakon14138/status/2081017236912017646/photo/1",
+              "media_key": "3_2081017229458706433",
+              "start": 5,
+              "url": "https://t.co/sTmXyjr2di"
+            },
+            {
+              "display_url": "x.com/99905230523aol…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/99905230523aol/status/2080519568192352607",
+              "start": 29,
+              "url": "https://t.co/zxeLJBHurJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081017236912017646",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080519568192352607",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本人成分 https://t.co/sTmXyjr2di https://t.co/zxeLJBHurJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080519565289947136"
+          ]
+        },
+        "author_id": "1629877998148042757",
+        "conversation_id": "2080519568192352607",
+        "created_at": "2026-07-24T05:04:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:04:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080519568192352607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8vZcZ2LQE3",
+              "end": 32,
+              "expanded_url": "https://x.com/99905230523aol/status/2080519568192352607/photo/1",
+              "media_key": "3_2080519565289947136",
+              "start": 9,
+              "url": "https://t.co/8vZcZ2LQE3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080519568192352607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3279,
+          "like_count": 93,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "药圈意识形态大赏 https://t.co/8vZcZ2LQE3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 3
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，加速主义，后性别主义\n支持致幻剂合法化，大麻合法化\n/双性恋\n高功能孤独症谱系/支持神经多样性运动",
+        "id": "1629877998148042757",
+        "location": "激进主义分子",
+        "name": "无政府主义联盟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 73,
+          "like_count": 31,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 229
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T17:23:34",
+  "last_updated": "2026-08-26T18:24:06",
   "html": {
     "https://web.archive.org/web/20260726145741if_/https://twitter.com/Pharmakon14138/status/2081393523719569443": {
       "status": "done",
@@ -120,25 +120,25 @@
     },
     "https://web.archive.org/web/20260725105155if_/https://twitter.com/Pharmakon14138/status/2080969289079849043": {
       "status": "failed",
-      "last_updated": "2026-08-26T17:22:13",
-      "last_reason": "HTML 下载失败：ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725105155if_/https://twitter.com/Pharmakon14138/status/2080969289079849043 (Ca",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:22:20",
+      "last_reason": "HTML 下载失败：ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725105155if_/https://twitter.com/Pharmakon14138/status/2080969289079849043 (C",
+      "miss_count": 2
     },
     "https://web.archive.org/web/20260725135827if_/https://twitter.com/Pharmakon14138/status/2081016229423358457": {
       "status": "failed",
-      "last_updated": "2026-08-26T17:22:13",
-      "last_reason": "HTML 下载失败：ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725135827if_/https://twitter.com/Pharmakon14138/status/2081016229423358457 (Ca",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:22:48",
+      "last_reason": "HTML 下载失败：ReadTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Read timed out. (read timeout=30)",
+      "miss_count": 2
     },
     "https://web.archive.org/web/20260725140227if_/https://twitter.com/Pharmakon14138/status/2081017236912017646": {
-      "status": "failed",
-      "last_updated": "2026-08-26T17:22:13",
+      "status": "done",
+      "last_updated": "2026-08-26T18:22:21",
       "last_reason": "HTML 下载失败：ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260725140227if_/https://twitter.com/Pharmakon14138/status/2081017236912017646 (Ca",
       "miss_count": 1
     },
     "https://web.archive.org/web/20260726145652if_/https://twitter.com/Pharmakon14138/status/2081393321411535112": {
-      "status": "failed",
-      "last_updated": "2026-08-26T17:22:13",
+      "status": "done",
+      "last_updated": "2026-08-26T18:22:18",
       "last_reason": "HTML 下载失败：ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260726145652if_/https://twitter.com/Pharmakon14138/status/2081393321411535112 (Ca",
       "miss_count": 1
     }
@@ -170,45 +170,45 @@
       "referenced_by": [
         "20260730063127_twitter_com_Pharmakon14138_status_2082715679778840877.json"
       ],
-      "last_updated": "2026-08-26T17:22:18",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730063127im_/https://pbs.twimg.com/media/HOdK3WFaoAAShhR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f739c1a9eb0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:23:22",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730063127im_/https://pbs.twimg.com/media/HOdK3WFaoAAShhR.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadabe0f0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOR8e1hbQAAuhq4.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260730071848_twitter_com_Pharmakon14138_status_2082727594139734324.json"
       ],
-      "last_updated": "2026-08-26T17:22:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730071848im_/https://pbs.twimg.com/media/HOR8e1hbQAAuhq4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f73a080a8d0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:23:30",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730071848if_/https://pbs.twimg.com/media/HOR8e1hbQAAuhq4.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadadc350>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOR8fQua0AA9AwF.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260730071848_twitter_com_Pharmakon14138_status_2082727594139734324.json"
       ],
-      "last_updated": "2026-08-26T17:22:25",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260730071848/https://pbs.twimg.com/media/HOR8fQua0AA9AwF.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:23:35",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730071848im_/https://pbs.twimg.com/media/HOR8fQua0AA9AwF.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadade4b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOR8fqubEAA0Sja.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260730071848_twitter_com_Pharmakon14138_status_2082727594139734324.json"
       ],
-      "last_updated": "2026-08-26T17:22:29",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730071848im_/https://pbs.twimg.com/media/HOR8fqubEAA0Sja.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f739c15a0c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:23:39",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730071848im_/https://pbs.twimg.com/media/HOR8fqubEAA0Sja.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadabc3b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOR8gA_boAAAVMB.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260730071848_twitter_com_Pharmakon14138_status_2082727594139734324.json"
       ],
-      "last_updated": "2026-08-26T17:22:33",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730071848im_/https://pbs.twimg.com/media/HOR8gA_boAAAVMB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f739c1a9550>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:23:44",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260730071848im_/https://pbs.twimg.com/media/HOR8gA_boAAAVMB.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadadc560>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOoQG5Tb0AA-vNL.jpg": {
       "status": "done",
@@ -222,27 +222,27 @@
       "referenced_by": [
         "20260802133233_twitter_com_Pharmakon14138_status_2083908814877897102.json"
       ],
-      "last_updated": "2026-08-26T17:22:17",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802133233im_/https://pbs.twimg.com/media/HOuIBA5a4AIMC7e.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f73a083e420>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:23:48",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802133233im_/https://pbs.twimg.com/media/HOuIBA5a4AIMC7e.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadafe4e0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOuIBBFaAAAWTq0.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260802133233_twitter_com_Pharmakon14138_status_2083908814877897102.json"
       ],
-      "last_updated": "2026-08-26T17:22:21",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802133233im_/https://pbs.twimg.com/media/HOuIBBFaAAAWTq0.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f739c17a870>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:23:52",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802133233im_/https://pbs.twimg.com/media/HOuIBBFaAAAWTq0.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadafe6c0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOuIBA-bsAA45cd.jpg": {
       "status": "failed",
       "referenced_by": [
         "20260802133233_twitter_com_Pharmakon14138_status_2083908814877897102.json"
       ],
-      "last_updated": "2026-08-26T17:22:32",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802133233/https://pbs.twimg.com/media/HOuIBA-bsAA45cd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f739c1be1b0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:24:06",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260802133233/https://pbs.twimg.com/media/HOuIBA-bsAA45cd.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7efdadabe960>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 3
     },
     "https://pbs.twimg.com/media/HOvQiW0bsAAF-mi.jpg": {
       "status": "done",
@@ -313,6 +313,27 @@
         "20260825043506_twitter_com_Pharmakon14138_status_2092108482560610716.json"
       ],
       "last_updated": "2026-08-26T17:22:14"
+    },
+    "https://pbs.twimg.com/media/HOFCJP1akAEDlaH.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260725140227_twitter_com_Pharmakon14138_status_2081017236912017646.json"
+      ],
+      "last_updated": "2026-08-26T18:22:49"
+    },
+    "https://pbs.twimg.com/media/HN99hYVbgAA5vJF.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260725140227_twitter_com_Pharmakon14138_status_2081017236912017646.json"
+      ],
+      "last_updated": "2026-08-26T18:22:49"
+    },
+    "https://pbs.twimg.com/media/HOKFmaqagAAs0F8.jpg": {
+      "status": "done",
+      "referenced_by": [
+        "20260726145652_twitter_com_Pharmakon14138_status_2081393321411535112.json"
+      ],
+      "last_updated": "2026-08-26T18:22:49"
     }
   },
   "videos": {
@@ -351,7 +372,9 @@
         "20260801101010_twitter_com_Pharmakon14138_status_2083495497462100268.json",
         "20260802133233_twitter_com_Pharmakon14138_status_2083908814877897102.json",
         "20260802133356_twitter_com_Pharmakon14138_status_2083909161994383670.json",
-        "20260802133416_twitter_com_Pharmakon14138_status_2083909246178214240.json"
+        "20260802133416_twitter_com_Pharmakon14138_status_2083909246178214240.json",
+        "20260725140227_twitter_com_Pharmakon14138_status_2081017236912017646.json",
+        "20260726145652_twitter_com_Pharmakon14138_status_2081393321411535112.json"
       ],
       "last_updated": "2026-08-26T17:23:34"
     },
@@ -365,7 +388,8 @@
     "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg": {
       "status": "done",
       "referenced_by": [
-        "20260726122318_twitter_com_Pharmakon14138_status_2081354675497181270.json"
+        "20260726122318_twitter_com_Pharmakon14138_status_2081354675497181270.json",
+        "20260726145652_twitter_com_Pharmakon14138_status_2081393321411535112.json"
       ],
       "last_updated": "2026-08-26T17:23:34"
     },
@@ -453,6 +477,12 @@
         "20260817114535_twitter_com_Pharmakon14138_status_2089317713458110705.json"
       ],
       "last_updated": "2026-08-26T17:23:34"
+    },
+    "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg": {
+      "status": "unknown",
+      "referenced_by": [
+        "20260725140227_twitter_com_Pharmakon14138_status_2081017236912017646.json"
+      ]
     }
   },
   "media": {
@@ -578,7 +608,8 @@
           "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:23:34"
+      "last_updated": "2026-08-26T18:22:59",
+      "miss_count": 1
     },
     "20260730071848_twitter_com_Pharmakon14138_status_2082727594139734324.json": {
       "status": "failed",
@@ -595,7 +626,8 @@
           "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:23:34"
+      "last_updated": "2026-08-26T18:23:16",
+      "miss_count": 1
     },
     "20260801101010_twitter_com_Pharmakon14138_status_2083495497462100268.json": {
       "status": "done",
@@ -623,7 +655,8 @@
           "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:23:34"
+      "last_updated": "2026-08-26T18:23:09",
+      "miss_count": 1
     },
     "20260802133356_twitter_com_Pharmakon14138_status_2083909161994383670.json": {
       "status": "done",
@@ -737,7 +770,8 @@
           "https://pbs.twimg.com/profile_images/1972747241543921664/wP3LHRW1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:23:34"
+      "last_updated": "2026-08-26T18:22:48",
+      "miss_count": 1
     },
     "20260813041910_twitter_com_Pharmakon14138_status_2087755818817257951.json": {
       "status": "done",
@@ -829,6 +863,35 @@
         ]
       },
       "last_updated": "2026-08-26T17:23:34"
+    },
+    "20260725140227_twitter_com_Pharmakon14138_status_2081017236912017646.json": {
+      "status": "unknown",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HOFCJP1akAEDlaH.jpg",
+          "https://pbs.twimg.com/media/HN99hYVbgAA5vJF.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+          "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-26T18:22:49"
+    },
+    "20260726145652_twitter_com_Pharmakon14138_status_2081393321411535112.json": {
+      "status": "done",
+      "depends_on": {
+        "images": [
+          "https://pbs.twimg.com/media/HOKFmaqagAAs0F8.jpg"
+        ],
+        "videos": [],
+        "avatars": [
+          "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+          "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg"
+        ]
+      },
+      "last_updated": "2026-08-26T18:22:49"
     }
   }
 }
