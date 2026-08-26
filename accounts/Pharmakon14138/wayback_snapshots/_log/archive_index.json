@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:24:06",
+  "last_updated": "2026-08-26T18:24:37",
   "html": {
     "https://web.archive.org/web/20260726145741if_/https://twitter.com/Pharmakon14138/status/2081393523719569443": {
       "status": "done",
@@ -345,13 +345,13 @@
       "last_updated": "2026-08-26T17:22:54"
     },
     "https://video.twimg.com/amplify_video/2087173830796345344/vid/avc1/720x1280/wr3702AsEbWWRKea.mp4": {
-      "status": "failed",
+      "status": "failed_all",
       "referenced_by": [
         "20260811140938_twitter_com_Pharmakon14138_status_2087179640146423958.json"
       ],
-      "last_updated": "2026-08-26T17:23:16",
-      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260811140938if_/https://video.twimg.com/amplify_video/2087173830796345344/vid/avc1/720x1280/wr3702AsEbWWRKea.mp4 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe5e27eeea0>, 'Connection to web.archive.org timed out. (connect timeout=4)'))",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:24:37",
+      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260811140938/https://video.twimg.com/amplify_video/2087173830796345344/vid/avc1/720x1280/wr3702AsEbWWRKea.mp4",
+      "miss_count": 3
     }
   },
   "avatars": {
@@ -608,8 +608,8 @@
           "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:22:59",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:24:21",
+      "miss_count": 2
     },
     "20260730071848_twitter_com_Pharmakon14138_status_2082727594139734324.json": {
       "status": "failed",
@@ -626,8 +626,8 @@
           "https://pbs.twimg.com/profile_images/2059978102059696128/DD34Uxdu_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:23:16",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:24:21",
+      "miss_count": 2
     },
     "20260801101010_twitter_com_Pharmakon14138_status_2083495497462100268.json": {
       "status": "done",
@@ -655,8 +655,8 @@
           "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:23:09",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:24:21",
+      "miss_count": 2
     },
     "20260802133356_twitter_com_Pharmakon14138_status_2083909161994383670.json": {
       "status": "done",
@@ -759,7 +759,7 @@
       "last_updated": "2026-08-26T17:23:34"
     },
     "20260811140938_twitter_com_Pharmakon14138_status_2087179640146423958.json": {
-      "status": "failed",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -770,8 +770,8 @@
           "https://pbs.twimg.com/profile_images/1972747241543921664/wP3LHRW1_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:22:48",
-      "miss_count": 1
+      "last_updated": "2026-08-26T18:24:37",
+      "miss_count": 2
     },
     "20260813041910_twitter_com_Pharmakon14138_status_2087755818817257951.json": {
       "status": "done",
@@ -877,7 +877,7 @@
           "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T18:22:49"
+      "last_updated": "2026-08-26T18:24:21"
     },
     "20260726145652_twitter_com_Pharmakon14138_status_2081393321411535112.json": {
       "status": "done",
