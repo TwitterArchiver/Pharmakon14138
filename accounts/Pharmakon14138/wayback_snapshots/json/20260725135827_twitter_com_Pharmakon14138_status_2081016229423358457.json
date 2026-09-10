@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2081016229423358457",
+    "created_at": "2026-07-25T13:58:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:58:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081016229423358457"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/valencelab/sta…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/valencelab/status/2080988256917934209",
+          "start": 6,
+          "url": "https://t.co/uQwK5yO0VN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081016229423358457",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080988256917934209",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剧烈蹭流量 https://t.co/uQwK5yO0VN"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2081016229423358457",
+        "created_at": "2026-07-25T13:58:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:58:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081016229423358457"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valencelab/sta…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/valencelab/status/2080988256917934209",
+              "start": 6,
+              "url": "https://t.co/uQwK5yO0VN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081016229423358457",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080988256917934209",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈蹭流量 https://t.co/uQwK5yO0VN"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754774517594181632",
+        "conversation_id": "2080988256917934209",
+        "created_at": "2026-07-25T12:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T13:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080988256917934209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hxh_xxy/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hxh_xxy/status/2080923818307260734",
+              "start": 5,
+              "url": "https://t.co/3nM7n8qfYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080988256917934209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 172,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080923818307260734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈转帖 https://t.co/3nM7n8qfYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "location": "欢迎私信tg指路 ",
+        "name": "Pharmakon",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080967441732227072/c7BH4AoQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 15,
+          "like_count": 1,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 2
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-06T07:50:34.000Z",
+        "description": "我只是一只野生瓦楞斯∥在深山模仿古猿的神秘露营爱好者⛺∥神厨小瓦楞斯∥新群组链接↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ValenceLab_Gro…",
+                "end": 23,
+                "expanded_url": "https://t.me/ValenceLab_Group",
+                "start": 0,
+                "url": "https://t.co/4j9Jfhccra"
+              }
+            ]
+          }
+        },
+        "id": "1754774517594181632",
+        "location": "本栖湖",
+        "name": "𝗩𝗮𝗹𝗲𝗻𝗰𝗲🆁🅲 瓦楞斯",
+        "pinned_tweet_id": "2054393417166434678",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033925913575100419/x5z1bNHB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 218,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 48,
+          "tweet_count": 463
+        },
+        "url": "https://t.co/4j9Jfhccra",
+        "username": "ValenceLab",
+        "verified": false
+      }
+    ]
+  }
+}

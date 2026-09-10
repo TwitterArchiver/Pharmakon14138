@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2096988487773978878",
+    "created_at": "2026-09-07T15:46:30.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T16:46:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096988487773978878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/uixxixu/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/uixxixu/status/2096986724559880251",
+          "start": 6,
+          "url": "https://t.co/YXM6Ujmgye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096988487773978878",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096986724559880251",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "棉花糖妙哇 https://t.co/YXM6Ujmgye"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096986715793797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRn-TsWaMAA0nXG.jpg",
+        "width": 1096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2096988487773978878",
+        "created_at": "2026-09-07T15:46:30.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096988487773978878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/uixxixu/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/uixxixu/status/2096986724559880251",
+              "start": 6,
+              "url": "https://t.co/YXM6Ujmgye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096988487773978878",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096986724559880251",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "棉花糖妙哇 https://t.co/YXM6Ujmgye"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096986715793797120"
+          ]
+        },
+        "author_id": "1128010587089264640",
+        "conversation_id": "2096986724559880251",
+        "created_at": "2026-09-07T15:39:29.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T16:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096986724559880251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 24,
+              "id": "1754774517594181632",
+              "start": 13,
+              "username": "ValenceLab"
+            },
+            {
+              "end": 39,
+              "id": "1518404201168007168",
+              "start": 25,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3b4AR1lPMF",
+              "end": 63,
+              "expanded_url": "https://x.com/uixxixu/status/2096986724559880251/photo/1",
+              "media_key": "3_2096986715793797120",
+              "start": 40,
+              "url": "https://t.co/3b4AR1lPMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096986724559880251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096986715793797120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "一则棉花糖报告\n第一次写\n@ValenceLab @godspeedyou50 https://t.co/3b4AR1lPMF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2096988487773978878",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 63,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 44
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-13T18:54:16.000Z",
+        "description": "未来/现实失败的中年女人？/精神状态不正常cos只是爱好/妹妹@PP_Konig/我的狗@takanashi110998/不混任何圈子/勿问渠道/健全人和看黄男别关注",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 31,
+                "username": "PP_Konig"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "takanashi110998"
+              }
+            ]
+          }
+        },
+        "id": "1128010587089264640",
+        "is_identity_verified": false,
+        "location": "拓麻歌子星球",
+        "most_recent_tweet_id": "2096986724559880251",
+        "name": "镇静药物全是梦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1128010587089264640/1766977035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047434191672164352/lyFNZo5S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2361,
+          "following_count": 535,
+          "like_count": 7023,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 4731
+        },
+        "url": "",
+        "username": "uixxixu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

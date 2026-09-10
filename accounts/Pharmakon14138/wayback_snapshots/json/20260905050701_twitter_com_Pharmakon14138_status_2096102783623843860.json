@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2096060931264618669",
+    "created_at": "2026-09-05T05:07:01.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T06:07:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096102783623843860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1530574799130738688",
+          "start": 0,
+          "username": "chusilaifugogo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096102783623843860",
+    "in_reply_to_user_id": "1530574799130738688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096101872537096507",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chusilaifugogo 已返场可以私信"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2096060931264618669",
+        "created_at": "2026-09-05T05:07:01.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096102783623843860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1530574799130738688",
+              "start": 0,
+              "username": "chusilaifugogo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096102783623843860",
+        "in_reply_to_user_id": "1530574799130738688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096101872537096507",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chusilaifugogo 已返场可以私信"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1530574799130738688",
+        "conversation_id": "2096060931264618669",
+        "created_at": "2026-09-05T05:03:24.000Z",
+        "display_text_range": [
+          16,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:03:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096101872537096507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2080966704356802560",
+              "start": 0,
+              "username": "Pharmakon14138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096101872537096507",
+        "in_reply_to_user_id": "2080966704356802560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096060931264618669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pharmakon14138 心流！我最喜欢心流！（本人玩不了那个致幻剂呜呜呜呜呜呜呜呜"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/buyaogaowosorry",
+                "end": 23,
+                "expanded_url": "http://t.me/buyaogaowosorry",
+                "start": 0,
+                "url": "https://t.co/iOCGBYGysd"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2096102783623843860",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 62,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 41
+        },
+        "url": "https://t.co/iOCGBYGysd",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-28T15:40:59.000Z",
+        "description": "apple猫重出江湖！不定时更新！and有占卜需要找这个宝宝！@kill_this_hate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 31,
+                "username": "kill_this_hate"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kkkkkkk%E5%A1%…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kkkkkkk%E5%A1%91",
+                "start": 0,
+                "url": "https://t.co/A7Ryj1UcwD"
+              }
+            ]
+          }
+        },
+        "id": "1530574799130738688",
+        "is_identity_verified": false,
+        "location": "Golden",
+        "most_recent_tweet_id": "2096101872537096507",
+        "name": "gg猫",
+        "pinned_tweet_id": "2057278327946449173",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1530574799130738688/1751429192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066379155521069056/Bpdzcm6E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5948,
+          "following_count": 3639,
+          "like_count": 13532,
+          "listed_count": 26,
+          "media_count": 38,
+          "tweet_count": 3134
+        },
+        "url": "https://t.co/A7Ryj1UcwD",
+        "username": "chusilaifugogo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
