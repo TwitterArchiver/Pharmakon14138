@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-10-02T08:22:32",
+  "last_updated": "2026-10-02T08:22:50",
   "html": {
     "https://web.archive.org/web/20260726145741if_/https://twitter.com/Pharmakon14138/status/2081393523719569443": {
       "status": "done",
@@ -1008,73 +1008,84 @@
       "last_updated": "2026-09-10T17:45:09"
     },
     "https://pbs.twimg.com/profile_images/2089798390653898752/_h5eMeCL_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260910064225_twitter_com_Pharmakon14138_status_2097938730732671355.json",
         "20260922062725_twitter_com_Pharmakon14138_status_2102283607113191592.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/1720311986050002944/pEEBk6Y6_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260911014319_twitter_com_Pharmakon14138_status_2098225847769632941.json",
         "20260911014342_twitter_com_Pharmakon14138_status_2098225943563366431.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2080560915905392640/RC0GWo7B_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260913144528_twitter_com_Pharmakon14138_status_2099147455598350714.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260917093909_twitter_com_Pharmakon14138_status_2100519919049965804.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2061818632947322882/byfJutrB_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260922062642_twitter_com_Pharmakon14138_status_2102283426955141475.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260923090441_twitter_com_Pharmakon14138_status_2102685572603187495.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927005049_twitter_com_Pharmakon14138_status_2104010838915129541.json",
         "20260929084731_twitter_com_Pharmakon14138_status_2104855579793784865.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2104119756911767552/vcgLOqrC_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260927082555_twitter_com_Pharmakon14138_status_2104125367896482188.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2029859148439990272/aL7i76Jq_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929022744_twitter_com_Pharmakon14138_status_2104760003945193476.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929084731_twitter_com_Pharmakon14138_status_2104855579793784865.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     },
     "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260929120850_twitter_com_Pharmakon14138_status_2104906244545008111.json"
-      ]
+      ],
+      "last_updated": "2026-10-02T08:22:49"
     }
   },
   "media": {
@@ -1776,7 +1787,7 @@
       "last_updated": "2026-09-10T17:44:08"
     },
     "20260910064225_twitter_com_Pharmakon14138_status_2097938730732671355.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HR1a1MDbgAAomFJ.jpg"
@@ -1787,10 +1798,10 @@
           "https://pbs.twimg.com/profile_images/2089798390653898752/_h5eMeCL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260911014319_twitter_com_Pharmakon14138_status_2098225847769632941.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HR5h-WpbQAArldZ.jpg"
@@ -1801,10 +1812,10 @@
           "https://pbs.twimg.com/profile_images/1720311986050002944/pEEBk6Y6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260911014342_twitter_com_Pharmakon14138_status_2098225943563366431.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HR5h-WpbQAArldZ.jpg"
@@ -1815,7 +1826,7 @@
           "https://pbs.twimg.com/profile_images/1720311986050002944/pEEBk6Y6_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260913062205_twitter_com_Pharmakon14138_status_2099020775504461866.json": {
       "status": "done",
@@ -1832,7 +1843,7 @@
       "last_updated": "2026-10-02T08:22:02"
     },
     "20260913144528_twitter_com_Pharmakon14138_status_2099147455598350714.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1841,7 +1852,7 @@
           "https://pbs.twimg.com/profile_images/2080560915905392640/RC0GWo7B_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260917040543_twitter_com_Pharmakon14138_status_2100436007900549339.json": {
       "status": "done",
@@ -1855,7 +1866,7 @@
       "last_updated": "2026-10-02T08:22:01"
     },
     "20260917093909_twitter_com_Pharmakon14138_status_2100519919049965804.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1864,7 +1875,7 @@
           "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260918085724_twitter_com_Pharmakon14138_status_2100871799739478231.json": {
       "status": "done",
@@ -1959,7 +1970,7 @@
       "last_updated": "2026-10-02T08:22:01"
     },
     "20260922062642_twitter_com_Pharmakon14138_status_2102283426955141475.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSzPJOKa4AAXNzK.jpg"
@@ -1970,10 +1981,10 @@
           "https://pbs.twimg.com/profile_images/2061818632947322882/byfJutrB_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260922062725_twitter_com_Pharmakon14138_status_2102283607113191592.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HSzHHZEbcAA3kG-.jpg"
@@ -1984,10 +1995,10 @@
           "https://pbs.twimg.com/profile_images/2089798390653898752/_h5eMeCL_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260923090441_twitter_com_Pharmakon14138_status_2102685572603187495.json": {
-      "status": "unknown",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HS3kW9fXAAAirWy.jpg"
@@ -1998,7 +2009,7 @@
           "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260925063600_twitter_com_Pharmakon14138_status_2103372933787947249.json": {
       "status": "done",
@@ -2016,7 +2027,7 @@
       "last_updated": "2026-10-02T08:22:02"
     },
     "20260927005049_twitter_com_Pharmakon14138_status_2104010838915129541.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2025,10 +2036,10 @@
           "https://pbs.twimg.com/profile_images/2094966278272458752/JCHJlUlU_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260927082555_twitter_com_Pharmakon14138_status_2104125367896482188.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HTNWea1aIAAnHyK.jpg",
@@ -2040,7 +2051,7 @@
           "https://pbs.twimg.com/profile_images/2104119756911767552/vcgLOqrC_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260928063236_twitter_com_Pharmakon14138_status_2104459239410589866.json": {
       "status": "done",
@@ -2071,7 +2082,7 @@
       "last_updated": "2026-10-02T08:22:02"
     },
     "20260929022744_twitter_com_Pharmakon14138_status_2104760003945193476.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2080,10 +2091,10 @@
           "https://pbs.twimg.com/profile_images/2029859148439990272/aL7i76Jq_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260929084731_twitter_com_Pharmakon14138_status_2104855579793784865.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2094,7 +2105,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     },
     "20260929084859_twitter_com_Pharmakon14138_status_2104855950578602023.json": {
       "status": "done",
@@ -2109,7 +2120,7 @@
       "last_updated": "2026-10-02T08:22:01"
     },
     "20260929120850_twitter_com_Pharmakon14138_status_2104906244545008111.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -2118,7 +2129,7 @@
           "https://pbs.twimg.com/profile_images/2066084271341842432/5hKNs9Kr_normal.jpg"
         ]
       },
-      "last_updated": "2026-10-02T08:22:32"
+      "last_updated": "2026-10-02T08:22:49"
     }
   }
 }
