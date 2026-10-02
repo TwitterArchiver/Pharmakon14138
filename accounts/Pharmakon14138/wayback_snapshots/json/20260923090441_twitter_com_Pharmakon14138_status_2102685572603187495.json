@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2102685572603187495",
+    "created_at": "2026-09-23T09:04:41.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T10:04:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102685572603187495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mingquan0326/s…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/mingquan0326/status/2102587714847539420",
+          "start": 3,
+          "url": "https://t.co/h4todxeJuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102685572603187495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102587714847539420",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈妈 https://t.co/h4todxeJuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2102587684166238208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3kW9fXAAAirWy.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2102685572603187495",
+        "created_at": "2026-09-23T09:04:41.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T10:04:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102685572603187495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mingquan0326/s…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/mingquan0326/status/2102587714847539420",
+              "start": 3,
+              "url": "https://t.co/h4todxeJuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102685572603187495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102587714847539420",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈妈 https://t.co/h4todxeJuN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102587684166238208"
+          ]
+        },
+        "author_id": "1488754158647738369",
+        "conversation_id": "2102587714847539420",
+        "created_at": "2026-09-23T02:35:50.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102587714847539420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2080966704356802560",
+              "start": 0,
+              "username": "Pharmakon14138"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AH0hV7Ijyw",
+              "end": 42,
+              "expanded_url": "https://x.com/mingquan0326/status/2102587714847539420/photo/1",
+              "media_key": "3_2102587684166238208",
+              "start": 19,
+              "url": "https://t.co/AH0hV7Ijyw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102587714847539420",
+        "in_reply_to_user_id": "2080966704356802560",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102587684166238208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@Pharmakon14138 来点 https://t.co/AH0hV7Ijyw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊\n算命人格衍生物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgUIDp"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2102685572603187495",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 65,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 61
+        },
+        "url": "https://t.co/QC1vAgUIDp",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-02T06:00:44.000Z",
+        "description": "双向情感障碍/od/自残/穿孔/电吉他\n小狗@LoveHsiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 22,
+                "username": "LoveHsiii"
+              }
+            ]
+          }
+        },
+        "id": "1488754158647738369",
+        "is_identity_verified": false,
+        "location": "🚪88/188/288/520",
+        "most_recent_tweet_id": "2102587714847539420",
+        "name": "小飒",
+        "pinned_tweet_id": "2096896400382361869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1488754158647738369/1780744041",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069987997697921024/bh8tLu3n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 967,
+          "following_count": 528,
+          "like_count": 1491,
+          "listed_count": 2,
+          "media_count": 82,
+          "tweet_count": 1403
+        },
+        "url": "",
+        "username": "mingquan0326",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

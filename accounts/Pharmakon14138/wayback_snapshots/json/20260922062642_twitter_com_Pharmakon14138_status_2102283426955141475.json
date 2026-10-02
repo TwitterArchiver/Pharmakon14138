@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2102283426955141475",
+    "created_at": "2026-09-22T06:26:42.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T07:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102283426955141475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiaomaooooo_/s…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/xiaomaooooo_/status/2102282892265316819",
+          "start": 5,
+          "url": "https://t.co/MgQwGJD8zX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102283426955141475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102282892265316819",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "叩谢叩谢 https://t.co/MgQwGJD8zX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2102282883402752000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzPJOKa4AAXNzK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2102283426955141475",
+        "created_at": "2026-09-22T06:26:42.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102283426955141475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiaomaooooo_/s…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/xiaomaooooo_/status/2102282892265316819",
+              "start": 5,
+              "url": "https://t.co/MgQwGJD8zX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102283426955141475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102282892265316819",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "叩谢叩谢 https://t.co/MgQwGJD8zX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102282883402752000"
+          ]
+        },
+        "author_id": "1939362644672266240",
+        "conversation_id": "2102282892265316819",
+        "created_at": "2026-09-22T06:24:34.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T07:24:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102282892265316819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 22,
+              "id": "1518404201168007168",
+              "start": 8,
+              "username": "godspeedyou50"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FkHfvR0FvX",
+              "end": 49,
+              "expanded_url": "https://x.com/Xiaomaooooo_/status/2102282892265316819/photo/1",
+              "media_key": "3_2102282883402752000",
+              "start": 26,
+              "url": "https://t.co/FkHfvR0FvX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102282892265316819",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102282883402752000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "following",
+        "text": "有点埋汰的爱来自@godspeedyou50 晕晕 https://t.co/FkHfvR0FvX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊\n算命人格衍生物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgUIDp"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2102283426955141475",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 65,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 59
+        },
+        "url": "https://t.co/QC1vAgUIDp",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T16:39:19.000Z",
+        "description": "我系小猫！重来一世我要得到属于我的一切",
+        "id": "1939362644672266240",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102283284835430826",
+        "name": "这是幸福的魔法",
+        "pinned_tweet_id": "2027764443124494818",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939362644672266240/1765983896",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061818632947322882/byfJutrB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2283,
+          "following_count": 50,
+          "like_count": 70,
+          "listed_count": 13,
+          "media_count": 140,
+          "tweet_count": 609
+        },
+        "url": "",
+        "username": "Xiaomaooooo_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

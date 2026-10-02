@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2100416445956182260",
+    "created_at": "2026-09-17T09:39:09.000Z",
+    "display_text_range": [
+      10,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T10:39:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100519919049965804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1822109599459397632",
+          "start": 0,
+          "username": "zifensix"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100519919049965804",
+    "in_reply_to_user_id": "1822109599459397632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100416445956182260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zifensix 我感觉我还能玩十年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2100416445956182260",
+        "created_at": "2026-09-17T09:39:09.000Z",
+        "display_text_range": [
+          10,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:39:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100519919049965804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1822109599459397632",
+              "start": 0,
+              "username": "zifensix"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100519919049965804",
+        "in_reply_to_user_id": "1822109599459397632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100416445956182260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zifensix 我感觉我还能玩十年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822109599459397632",
+        "conversation_id": "2100416445956182260",
+        "created_at": "2026-09-17T02:47:59.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T03:47:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100416445956182260"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100416445956182260",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2619,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我发现连续嗑药好几年的死亡概率无限趋近于百分之百 我两三年前认识的oder要么戒药了要么死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgVgsX"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2100519919049965804",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 65,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 52
+        },
+        "url": "https://t.co/QC1vAgVgsX",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-10T03:16:10.000Z",
+        "description": "友所有人😎\n会查成分回fo同类😤\n09年 17岁 男的 性取向是大屌扶他和小屌男娘😡\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenod1",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenod1",
+                "start": 0,
+                "url": "https://t.co/GFoTTuEUGu"
+              }
+            ]
+          }
+        },
+        "id": "1822109599459397632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100513312547156313",
+        "name": "自分",
+        "pinned_tweet_id": "2095062171684360268",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095053323384877056/BbrQ-zvg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 161,
+          "like_count": 477,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 371
+        },
+        "url": "https://t.co/GFoTTuEUGu",
+        "username": "zifensix",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2080966704356802560",
+    "conversation_id": "2104125367896482188",
+    "created_at": "2026-09-27T08:25:55.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104125367896482188"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xrkccccc/statu…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/xrkccccc/status/2104120542672662937",
+          "start": 7,
+          "url": "https://t.co/vLbWiaXgFJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104125367896482188",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104120542672662937",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "剧烈关注！！ https://t.co/vLbWiaXgFJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104120531511549952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNWea1aIAAnHyK.jpg",
+        "width": 945
+      },
+      {
+        "height": 1003,
+        "media_key": "3_2104120531520036864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNWea3boAAYj6d.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080966704356802560",
+        "conversation_id": "2104125367896482188",
+        "created_at": "2026-09-27T08:25:55.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104125367896482188"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xrkccccc/statu…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/xrkccccc/status/2104120542672662937",
+              "start": 7,
+              "url": "https://t.co/vLbWiaXgFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104125367896482188",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104120542672662937",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "剧烈关注！！ https://t.co/vLbWiaXgFJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104120531511549952",
+            "3_2104120531520036864"
+          ]
+        },
+        "author_id": "2104118994886340608",
+        "conversation_id": "2104120542672662937",
+        "created_at": "2026-09-27T08:06:44.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104120542672662937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gn03otFYmh",
+              "end": 79,
+              "expanded_url": "https://x.com/Xrkccccc/status/2104120542672662937/photo/1",
+              "media_key": "3_2104120531511549952",
+              "start": 56,
+              "url": "https://t.co/gn03otFYmh"
+            },
+            {
+              "display_url": "pic.x.com/gn03otFYmh",
+              "end": 79,
+              "expanded_url": "https://x.com/Xrkccccc/status/2104120542672662937/photo/1",
+              "media_key": "3_2104120531520036864",
+              "start": 56,
+              "url": "https://t.co/gn03otFYmh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104120542672662937",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104120531511549952"
+          },
+          {
+            "media_key": "3_2104120531520036864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是从从从再生号，寻找互fo\n兄弟集美们快来找我互fo\n以后会发正能量帖子，来了解向日葵吧！(｡ì _ í｡) https://t.co/gn03otFYmh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-07-25T10:43:18.000Z",
+        "description": "法马康二世在此，我是随时消融在历史长河的毒瘤，兜售各种非列管合法策划化学物质💊\n算命人格衍生物",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/godspeedyoupr",
+                "end": 23,
+                "expanded_url": "https://t.me/godspeedyoupr",
+                "start": 0,
+                "url": "https://t.co/QC1vAgUIDp"
+              }
+            ]
+          }
+        },
+        "id": "2080966704356802560",
+        "is_identity_verified": false,
+        "location": "欢迎私信tg指路 ",
+        "most_recent_tweet_id": "2104125367896482188",
+        "name": "Pharmakon",
+        "pinned_tweet_id": "2081579185940938937",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2080966704356802560/1784976629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083912415851524096/qm0ThLdB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 65,
+          "like_count": 6,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 64
+        },
+        "url": "https://t.co/QC1vAgUIDp",
+        "username": "Pharmakon14138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-27T08:03:11.000Z",
+        "description": "",
+        "id": "2104118994886340608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104120542672662937",
+        "name": "Xrk",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104118994886340608/1790496627",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104119756911767552/vcgLOqrC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 1
+        },
+        "url": "",
+        "username": "Xrkccccc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
